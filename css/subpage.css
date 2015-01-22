@@ -1,0 +1,87 @@
+#container {width:960px;}
+
+nav[role="navigation"] ul.main-nav {
+margin-left: 120px;
+}
+
+figure.logo {max-width:101px;}
+
+.sidebar {
+	width:301px; /*29.021277%*/
+	float:right;
+	color:#333;
+	margin-top: 3%;
+	
+}
+
+.profile {
+	background-color:#fff;
+	float:right;
+	padding: 3%;
+	
+}
+
+.profile-img {
+	float:right;
+}
+
+.profile-name {
+	font-size:1.4em;
+	float:right;
+	margin-right: 3%;
+}
+
+.profile-site {
+	font-size:1.2em;
+	float:right;
+	margin-right: 3%;
+}
+
+.profile-social, .profile-social li{
+	
+	margin-right:3%;
+}
+
+.profile-social li {
+	margin-top:5%;
+	float:right;
+}
+
+.info {
+	background-color:#fff;
+	float:right;
+	margin-top:5%;
+	font-size:1.6em;
+	line-height:22px;
+	padding:3%;
+	
+}
+
+.info p {margin:0;}
+
+.title {}
+
+#main {
+	width:960px;
+}
+
+.mission {margin: 3% 0 0 1%;}
+
+img {max-width:100%;}
+
+
+.gallery {width:960px;max-width:960px;}
+
+.gallery_items {width:960px; margin:0 auto; float:left;}
+
+.gallery_items li {width:220px; /* 220/960=22.916667%*/ list-style:none;float:left;position:relative; margin:1.041667%; /*10/960*/ }
+
+.gallery_items li img {max-width:100%; padding:3%; background:#fff;}
+
+#footerContent {
+width: 960px;
+margin: 5% auto;
+}
+
+
+

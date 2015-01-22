@@ -1,0 +1,82 @@
+/*Specific Stylesheet for subpage*/
+
+#main {width:480px;}
+
+.gallery {
+max-width:100%;
+float: left;
+margin: 5% auto;
+
+}
+
+.gallery_items li {
+width: 44%;
+list-style: none;
+float: left;
+position: relative;
+margin: 10px;
+}
+
+.flexslider_placeholder {
+margin: 4% auto 0 auto;
+width: 98%;
+}
+
+.mission {
+margin: 5px auto;
+font-size: 1.8em;
+padding: 5px 5px 5px 20px;
+display: none;
+}
+
+nav[role="navigation"] ul.main-nav {
+margin-left: 14%;
+margin-top: 7%;
+
+}
+
+figure.logo {
+	max-width:55%;
+	margin:0 auto;
+}
+
+.pikachoose {width:360px;} 
+.pikastage img {width:360px;}
+.jcarousel-skin-pika .jcarousel-clip-horizontal {width: 460px; }
+
+.sidebar {
+width: 360px;
+color: #333;
+margin-top: 3%;
+padding-left: 12px;
+float:none;
+
+}
+
+.info {margin-bottom: 8%;}
+
+.profile-social, .profile-social li {
+margin: 6px;
+float: right;
+display: inline;
+margin: 6px;
+}
+
+.profile {width: 340px;}
+
+#footerContent #lCol, #footerContent #mCol, #footerContent #rCol {
+	width:380px;
+	float:none;
+	
+}
+
+#footerContent { 
+margin-top:15%;
+}
+
+@media screen and (max-width: 494px) and (min-width: 321px) and (orientation: landscape) {
+ 	nav[role="navigation"] ul.main-nav {
+	margin-left: 21%;
+	margin-top: 7%;
+	}
+}
