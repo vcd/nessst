@@ -1,0 +1,35 @@
+.gallery {
+max-width:100%;
+float: left;
+margin: 0 auto;
+
+}
+
+.gallery_items li {
+width: 44%;
+list-style: none;
+float: left;
+position: relative;
+margin: 10px;
+}
+
+.flexslider_placeholder {
+margin: 4% auto 0 auto;
+width: 98%;
+}
+
+.mission {
+margin: 5px auto;
+font-size: 1.5em;
+padding: 5px 5px 5px 20px;
+}
+
+nav[role="navigation"] ul.main-nav {
+margin-left: 14%;
+margin-top: 7%;
+}
+
+figure.logo {
+	max-width:55%;
+	margin:0 auto;
+}
